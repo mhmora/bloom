@@ -1,0 +1,4 @@
+MULTIPLE|¿Cuál es la capital de Francia?|Recordar|3|Madrid|Berlín|París|Roma|3
+VF|El agua hierve a 100 grados Celsius.|Recordar|2|true
+MULTIPLE|¿Quién pintó la Mona Lisa?|Entender|5|Picasso|Da Vinci|Van Gogh|Rembrandt|2
+VF|La Gran Muralla China es visible desde la Luna.|Aplicar|4|false
